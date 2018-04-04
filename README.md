@@ -1,0 +1,2 @@
+# Subscribe_RGB_Depth
+使用ROS节点订阅并显示rgb和depth图像，并使用message_filter进行时间同步； 建立了SLAM_VO类，将功能都尽量集中在这个类中；
